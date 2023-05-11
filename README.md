@@ -1,12 +1,24 @@
-# Main Front Page
-현재 개인 홈페이지 화면으로 개발할 예정인 프로젝트
+# home_front
 
+## Project setup
+```
+npm install
+```
 
-# Use Library
-- Vue3
-- Tailwind
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-# Use Server Setting
-- nodeJs
-- NginX (로드벨런싱 고민중)
-- Pm2
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
